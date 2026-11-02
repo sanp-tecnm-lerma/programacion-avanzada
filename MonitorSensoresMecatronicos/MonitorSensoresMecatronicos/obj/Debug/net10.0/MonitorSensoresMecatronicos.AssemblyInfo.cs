@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonitorSensoresMecatronicos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4560a2d9e8b965829375cb5634524582b5c1f30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32d917a04f3902d2cd8b525f0a9fe1d01408dffe")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonitorSensoresMecatronicos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonitorSensoresMecatronicos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

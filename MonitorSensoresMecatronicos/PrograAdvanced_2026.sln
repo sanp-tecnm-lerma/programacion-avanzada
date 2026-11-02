@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorSensoresMecatronicos", "MonitorSensoresMecatronicos\MonitorSensoresMecatronicos.csproj", "{E70D615A-83C8-409F-8EE8-D771C750864A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Herencia", "03Herencia\03Herencia.csproj", "{8164339D-E70E-4048-95FB-15AAB9DCB8DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{E70D615A-83C8-409F-8EE8-D771C750864A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E70D615A-83C8-409F-8EE8-D771C750864A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E70D615A-83C8-409F-8EE8-D771C750864A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8164339D-E70E-4048-95FB-15AAB9DCB8DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8164339D-E70E-4048-95FB-15AAB9DCB8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8164339D-E70E-4048-95FB-15AAB9DCB8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8164339D-E70E-4048-95FB-15AAB9DCB8DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

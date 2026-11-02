@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sergi\\Documentos\\00.Main\\01.TRABAJOS\\TEC\\PROGRAMACIÓN AVANZADA\\programacion-avanzada\\MonitorSensoresMecatronicos\\MonitorSensoresMecatronicos\\MonitorSensoresMecatronicos.csproj",
+      "projectUniqueName": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\MonitorSensoresMecatronicos\\MonitorSensoresMecatronicos\\MonitorSensoresMecatronicos.csproj",
       "projectName": "MonitorSensoresMecatronicos",
-      "projectPath": "C:\\Users\\sergi\\Documentos\\00.Main\\01.TRABAJOS\\TEC\\PROGRAMACIÓN AVANZADA\\programacion-avanzada\\MonitorSensoresMecatronicos\\MonitorSensoresMecatronicos\\MonitorSensoresMecatronicos.csproj",
+      "projectPath": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\MonitorSensoresMecatronicos\\MonitorSensoresMecatronicos\\MonitorSensoresMecatronicos.csproj",
       "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sergi\\Documentos\\00.Main\\01.TRABAJOS\\TEC\\PROGRAMACIÓN AVANZADA\\programacion-avanzada\\MonitorSensoresMecatronicos\\MonitorSensoresMecatronicos\\obj\\",
+      "outputPath": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\MonitorSensoresMecatronicos\\MonitorSensoresMecatronicos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config"
