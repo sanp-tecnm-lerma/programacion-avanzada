@@ -7,33 +7,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d19ce2d-2a87-4dfc-89c3-0d40ce554a74" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MonitorSensoresMecatronicos/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MonitorSensoresMecatronicos/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MonitorSensoresMecatronicos/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MonitorSensoresMecatronicos/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MonitorSensoresMecatronicos.sln" beforeDir="false" afterPath="$PROJECT_DIR$/PrograAdvanced_2026.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/Debug/net10.0/MonitorSensoresMecatronicos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/Debug/net10.0/MonitorSensoresMecatronicos.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/Debug/net10.0/MonitorSensoresMecatronicos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/Debug/net10.0/MonitorSensoresMecatronicos.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/Debug/net10.0/MonitorSensoresMecatronicos.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/Debug/net10.0/MonitorSensoresMecatronicos.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/Debug/net10.0/MonitorSensoresMecatronicos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/Debug/net10.0/MonitorSensoresMecatronicos.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/MonitorSensoresMecatronicos.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/MonitorSensoresMecatronicos.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MonitorSensoresMecatronicos/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MonitorSensoresMecatronicos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MonitorSensoresMecatronicos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03Herencia/Models/Animal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/03Herencia/Models/Animal.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03Herencia/Models/Perro.cs" beforeDir="false" afterPath="$PROJECT_DIR$/03Herencia/Models/Perro.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03Herencia/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/03Herencia/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03Herencia/obj/Debug/net10.0/03Herencia.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/03Herencia/obj/Debug/net10.0/03Herencia.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03Herencia/obj/Debug/net10.0/03Herencia.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/03Herencia/obj/Debug/net10.0/03Herencia.AssemblyInfoInputs.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sanp-tecnm-lerma&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sanp-tecnm-lerma/programacion-avanzada&quot;,
+    &quot;accountId&quot;: &quot;3a9f7dde-069d-4bd2-96a9-442a796236d7&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../Herencia/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5,
   &quot;fromUser&quot;: false
@@ -45,6 +52,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;.NET Project.03Herencia.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -56,7 +64,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.MonitorSensoresMecatronicos">
+  <component name="RunManager" selected=".NET Project.03Herencia">
     <configuration name="03Herencia" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -134,9 +142,24 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="NewProjectAnimalsObject" />
+    <MESSAGE value="NewProjectAnimalObject" />
+    <option name="LAST_COMMIT_MESSAGE" value="NewProjectAnimalObject" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

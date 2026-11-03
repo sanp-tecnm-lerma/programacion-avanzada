@@ -1,0 +1,15 @@
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\03Herencia\bin\Debug\net10.0\03Herencia.exe
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\03Herencia\bin\Debug\net10.0\03Herencia.deps.json
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\03Herencia\bin\Debug\net10.0\03Herencia.runtimeconfig.json
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\03Herencia\bin\Debug\net10.0\03Herencia.dll
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\03Herencia\bin\Debug\net10.0\03Herencia.pdb
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\03Herencia\obj\Debug\net10.0\03Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\03Herencia\obj\Debug\net10.0\03Herencia.AssemblyInfoInputs.cache
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\03Herencia\obj\Debug\net10.0\03Herencia.AssemblyInfo.cs
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\03Herencia\obj\Debug\net10.0\03Herencia.csproj.CoreCompileInputs.cache
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\03Herencia\obj\Debug\net10.0\03Herencia.sourcelink.json
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\03Herencia\obj\Debug\net10.0\03Herencia.dll
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\03Herencia\obj\Debug\net10.0\refint\03Herencia.dll
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\03Herencia\obj\Debug\net10.0\03Herencia.pdb
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\03Herencia\obj\Debug\net10.0\03Herencia.genruntimeconfig.cache
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\03Herencia\obj\Debug\net10.0\ref\03Herencia.dll

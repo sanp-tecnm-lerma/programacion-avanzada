@@ -4,7 +4,7 @@ public class Animal
 {
     // ── Atributos con distintos niveles de acceso ──
     public string Nombre { get; set; }        // público: cualquiera lo ve
-    protected int Edad;                      // protegido: solo Animal y derivadas
+    public int Edad;                      // protegido: solo Animal y derivadas
     protected string Especie;                 // protegido
     private string numeroChip;               // privado: solo Animal
 
