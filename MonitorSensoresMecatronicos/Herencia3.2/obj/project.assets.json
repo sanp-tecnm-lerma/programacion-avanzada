@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\MonitorSensoresMecatronicos\\03Herencia\\03Herencia.csproj",
-      "projectName": "03Herencia",
-      "projectPath": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\MonitorSensoresMecatronicos\\03Herencia\\03Herencia.csproj",
+      "projectUniqueName": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\MonitorSensoresMecatronicos\\Herencia3.2\\Herencia3.2.csproj",
+      "projectName": "Herencia3.2",
+      "projectPath": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\MonitorSensoresMecatronicos\\Herencia3.2\\Herencia3.2.csproj",
       "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\MonitorSensoresMecatronicos\\03Herencia\\obj\\",
+      "outputPath": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\MonitorSensoresMecatronicos\\Herencia3.2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config"

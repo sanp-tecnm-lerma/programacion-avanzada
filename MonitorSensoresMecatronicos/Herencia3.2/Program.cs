@@ -4,14 +4,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Perro perro = new Perro("Dante", 3, "CHIP-001", "Labrador");
+        Perro perroGuardian = new Perro("Dante", 3, "CHIP-001", "Labrador");
         Gato gato = new Gato("Michi", 2, "CHIP-002", true);
 
         Console.WriteLine("=== PERRO ===");
-        perro.Respirar();      // heredado
-        perro.Comer();         // sobrescrito
-        perro.Ladrar();        // propio
-        perro.MostrarInformacion();
+        perroGuardian.Respirar();      // heredado
+        perroGuardian.Comer();         // sobrescrito
+        perroGuardian.Ladrar();        // propio
+        perroGuardian.MostrarInformacion();
 
         Console.WriteLine("\n=== GATO ===");
         gato.Respirar();       // heredado

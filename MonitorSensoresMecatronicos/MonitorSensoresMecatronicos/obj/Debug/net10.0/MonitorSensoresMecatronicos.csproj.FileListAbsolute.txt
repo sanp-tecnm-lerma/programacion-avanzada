@@ -12,3 +12,18 @@ C:\Users\sergi\Documentos\00.Main\01.TRABAJOS\TEC\PROGRAMACIÓN AVANZADA\RiderPr
 C:\Users\sergi\Documentos\00.Main\01.TRABAJOS\TEC\PROGRAMACIÓN AVANZADA\RiderProjects\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\obj\Debug\net10.0\MonitorSensoresMecatronicos.pdb
 C:\Users\sergi\Documentos\00.Main\01.TRABAJOS\TEC\PROGRAMACIÓN AVANZADA\RiderProjects\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\obj\Debug\net10.0\MonitorSensoresMecatronicos.genruntimeconfig.cache
 C:\Users\sergi\Documentos\00.Main\01.TRABAJOS\TEC\PROGRAMACIÓN AVANZADA\RiderProjects\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\obj\Debug\net10.0\ref\MonitorSensoresMecatronicos.dll
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\bin\Debug\net10.0\MonitorSensoresMecatronicos.exe
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\bin\Debug\net10.0\MonitorSensoresMecatronicos.deps.json
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\bin\Debug\net10.0\MonitorSensoresMecatronicos.runtimeconfig.json
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\bin\Debug\net10.0\MonitorSensoresMecatronicos.dll
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\bin\Debug\net10.0\MonitorSensoresMecatronicos.pdb
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\obj\Debug\net10.0\MonitorSensoresMecatronicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\obj\Debug\net10.0\MonitorSensoresMecatronicos.AssemblyInfoInputs.cache
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\obj\Debug\net10.0\MonitorSensoresMecatronicos.AssemblyInfo.cs
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\obj\Debug\net10.0\MonitorSensoresMecatronicos.csproj.CoreCompileInputs.cache
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\obj\Debug\net10.0\MonitorSensoresMecatronicos.sourcelink.json
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\obj\Debug\net10.0\MonitorSensoresMecatronicos.dll
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\obj\Debug\net10.0\refint\MonitorSensoresMecatronicos.dll
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\obj\Debug\net10.0\MonitorSensoresMecatronicos.pdb
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\obj\Debug\net10.0\MonitorSensoresMecatronicos.genruntimeconfig.cache
+C:\Users\sergi\RiderProjects\programacion-avanzada\MonitorSensoresMecatronicos\MonitorSensoresMecatronicos\obj\Debug\net10.0\ref\MonitorSensoresMecatronicos.dll
