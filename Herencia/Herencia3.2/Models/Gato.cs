@@ -2,26 +2,24 @@
 
 public class Gato : Animal
 {
-    private bool esIndependiente;
+    // Atributo propio
+    public string ColorPelaje;
 
-    public Gato(string nombre, int edad, string chip, bool independiente)
-        : base(nombre, edad, "Felis silvestris catus", chip)
+    public Gato(string nombre, int edad, string chip, string colorPelaje)
     {
-        esIndependiente = independiente;
+        // Acceso permitido
+        this.Nombre = nombre; 
+        this.Edad = edad;     
+            
+        // Usamos el método público para el private
+        this.AsignarChip(chip); 
+
+        this.ColorPelaje = colorPelaje;
     }
 
-    public override void Comer()
-    {
-        Console.WriteLine($"{Nombre} come pescado con elegancia.");
-    }
-
+    // Comportamiento propio
     public void Maullar()
     {
-        Console.WriteLine($"{Nombre} dice: ¡Miau!");
-    }
-
-    public void MostrarInformacion()
-    {
-        Console.WriteLine($"Edad: {Edad} | Especie: {Especie} | Independiente: {esIndependiente}");
+        Console.WriteLine($"{Nombre} (Color: {ColorPelaje}, Edad: {Edad} años) dice: ¡Miau!");
     }
 }

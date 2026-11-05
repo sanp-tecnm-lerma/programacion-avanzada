@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\MonitorSensoresMecatronicos\\Herencia3.1\\Herencia3.1.csproj": {}
+    "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\Herencia\\Herencia3.1\\Herencia3.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\MonitorSensoresMecatronicos\\Herencia3.1\\Herencia3.1.csproj": {
+    "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\Herencia\\Herencia3.1\\Herencia3.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\MonitorSensoresMecatronicos\\Herencia3.1\\Herencia3.1.csproj",
+        "projectUniqueName": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\Herencia\\Herencia3.1\\Herencia3.1.csproj",
         "projectName": "Herencia3.1",
-        "projectPath": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\MonitorSensoresMecatronicos\\Herencia3.1\\Herencia3.1.csproj",
+        "projectPath": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\Herencia\\Herencia3.1\\Herencia3.1.csproj",
         "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\MonitorSensoresMecatronicos\\Herencia3.1\\obj\\",
+        "outputPath": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\Herencia\\Herencia3.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config"

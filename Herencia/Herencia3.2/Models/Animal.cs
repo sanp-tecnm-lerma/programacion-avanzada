@@ -9,12 +9,12 @@ public class Animal
     private string numeroChip;               // privado: solo Animal
 
     // Constructor
-    public Animal(string nombre, int edad, string especie, string chip)
+    public Animal()
     {
-        Nombre = nombre;
-        Edad = edad;
-        Especie = especie;
-        numeroChip = chip;
+        Nombre = "";
+        Edad = 0;
+        Especie = "";
+        numeroChip = "";
     }
 
     // Comportamiento común a todos los animales
@@ -23,12 +23,16 @@ public class Animal
         Console.WriteLine($"{Nombre} está respirando...");
     }
 
-    public virtual void Comer()
+    public void Comer()
     {
         Console.WriteLine($"{Nombre} está comiendo.");
     }
 
     // Método público para acceder al atributo privado de forma controlada
+    public void AsignarChip(string chip)
+    {
+        this.numeroChip = chip;
+    }
     public string ObtenerChip()
     {
         return numeroChip;

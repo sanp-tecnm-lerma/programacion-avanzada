@@ -7,17 +7,14 @@ public class Perro : Animal
     private string raza;
 
     public Perro(string nombre, int edad, string chip, string raza)
-        : base(nombre, edad, "Canis lupus familiaris", chip)
     {
+        this.Nombre = nombre;
+        this.Edad = edad;
+        this.Especie = "Canis";
+        AsignarChip(chip);
         this.raza = raza;
     }
-
-    // Especialización: sobrescribe Comer
-    public override void Comer()
-    {
-        Console.WriteLine($"{Nombre} (raza {raza}) come croquetas.");
-    }
-
+    
     // Comportamiento propio del perro
     public void Ladrar()
     {

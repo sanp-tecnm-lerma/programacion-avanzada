@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\MonitorSensoresMecatronicos\\MonitorSensoresMecatronicos\\MonitorSensoresMecatronicos.csproj",
+      "projectUniqueName": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\Herencia\\MonitorSensoresMecatronicos\\MonitorSensoresMecatronicos.csproj",
       "projectName": "MonitorSensoresMecatronicos",
-      "projectPath": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\MonitorSensoresMecatronicos\\MonitorSensoresMecatronicos\\MonitorSensoresMecatronicos.csproj",
+      "projectPath": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\Herencia\\MonitorSensoresMecatronicos\\MonitorSensoresMecatronicos.csproj",
       "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\MonitorSensoresMecatronicos\\MonitorSensoresMecatronicos\\obj\\",
+      "outputPath": "C:\\Users\\sergi\\RiderProjects\\programacion-avanzada\\Herencia\\MonitorSensoresMecatronicos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config"
