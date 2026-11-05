@@ -2,19 +2,27 @@
 
 namespace MonitorSensoresMecatronicos.Models;
 
+// Clase derivada (Tema 3.1)
 public class SensorDistancia : Sensor
 {
-    public SensorDistancia(string nombre) : base(nombre) { }
-
-    public override double LeerValor()
+    // Constructor vacío (NO usa base)
+    public SensorDistancia() 
     {
-        // Simula lectura entre 10 y 500 cm
-        double valor = new Random().Next(10, 500);
-        
-        // Simulamos un fallo (ej. obstrucción del sensor)
-        if (valor < 50) 
-            throw new InvalidOperationException("Fallo de lectura: Obstrucción detectada.");
+        Nombre = "Sensor de Nivel"; // ✅ Acceso a public
+    }
 
-        return valor;
+    // Método de inicialización
+    public void Iniciar(string puerto)
+    {
+        ConfigurarPuerto(puerto); // ✅ Llamada a método público
+    }
+
+    public void MostrarNivel()
+    {
+        // ✅ Puede usar 'Distancia' porque es protected
+        Console.WriteLine($"Nivel del tanque: {Distancia} cm");
+            
+        // ❌ ERROR DE COMPILACIÓN si descomentas esto:
+        // Console.WriteLine($"Puerto: {PuertoCom}"); 
     }
 }

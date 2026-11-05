@@ -1,51 +1,37 @@
 ﻿using System;
-using System.Collections.Generic;
-using MonitorSensoresMecatronicos.Models;
+using System.IO.Ports;
+namespace MonitorSensoresMecatronicos.Models;
 
-
-// 3. Programa Principal (Polimorfismo y Excepciones)
-public class Program
+class Program
 {
-    public static void Main()
+    static void Main(string[] args)
     {
-        Console.WriteLine("=== SISTEMA MECATRÓNICO DE MONITOREO ===");
-        Console.WriteLine("Iniciando lectura de sensores...\n");
+        // 1. Instanciamos (Constructor vacío)
+        SensorDistancia sensorTanque = new SensorDistancia();
+            
+        // 2. Configuramos el puerto (Reemplaza el constructor con parámetros)
+        sensorTanque.Iniciar("COM7"); // Cambia por tu puerto real
+            
+        // 3. Conectamos
+        sensorTanque.Conectar();
 
-        // Lista polimórfica: puede contener cualquier tipo de Sensor
-        List<Sensor> sensores = new List<Sensor>
+        Console.WriteLine("\n--- Iniciando lectura (Presiona Enter para salir) ---");
+            
+        while (!Console.KeyAvailable)
         {
-            new SensorTemperatura("Termómetro del Motor"),
-            new SensorDistancia("Sensor de Proximidad (Brazo Robótico)"),
-            new SensorTemperatura("Termómetro del Ambiente")
-        };
+            sensorTanque.ActualizarLectura();
+            sensorTanque.MostrarNivel();
 
-        // Iteramos sobre los sensores
-        foreach (var sensor in sensores)
-        {
-            try
-            {
-                // POLIMORFISMO: Llamamos al mismo método, pero cada sensor lo hace a su manera
-                double valor = sensor.LeerValor();
+            // --- PRUEBAS DE ACCESO ---
+            // ❌ ERROR: 'Distancia' es protected (Main no puede verla)
+            // sensorTanque.Distancia = 100; 
                 
-                // Formateamos la salida para que se vea bien en consola
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine($"✔ {sensor.Nombre,-40} | Lectura: {valor:F2}");
-            }
-            catch (Exception ex)
-            {
-                // MANEJO DE EXCEPCIONES: Si un sensor falla, el programa no se cierra
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine($"✖ {sensor.Nombre,-40} | Error: {ex.Message}");
-            }
-            finally
-            {
-                // El bloque finally se ejecuta siempre, haya error o no.
-                Console.ResetColor();
-            }
+            // ❌ ERROR: 'PuertoCom' es private (Main no puede verlo)
+            // sensorTanque.PuertoCom = "COM4"; 
+
+            System.Threading.Thread.Sleep(100);
         }
 
-        Console.WriteLine("\n=== FIN DEL MONITOREO ===");
-        Console.WriteLine("Presiona cualquier tecla para salir...");
-        Console.ReadKey();
+        sensorTanque.Desconectar();
     }
 }
